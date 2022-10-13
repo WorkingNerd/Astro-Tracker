@@ -1,0 +1,1 @@
+This is my version of Open Astro Tracker. It’s a 3D printed tracking mount for DSLR astrophotography that I build with parts that I need. Its main purpose is to use lens more than 150mm, but it can use and less than 150mm.
