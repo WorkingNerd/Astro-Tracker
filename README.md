@@ -13,7 +13,7 @@ This is my version of [Open Astro Trech](https://openastrotech.com/). It’s a 3
 
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![image](./IMG/IMG_7255.PNG)
 
 
 ## Usage
